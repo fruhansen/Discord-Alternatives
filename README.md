@@ -52,6 +52,7 @@ Just start by inviting your friends
 | [Silenced](https://silenced.app/) | 🔒 Closed  | ☁ Centralized | 🔐 E2EE | Early development | 
 | [ChatBap](https://chatbap.com/) | 🔒 Closed  | ☁ Centralized | 🔐 TLS | Early development | 
 | [Pulse](https://plse.chat/) | 🟢 Open  | 🌐 Federated | 🔐 TLS + E2EE | Early development | 
+| [Blite](https://blite.chat/) | 🟢 Open  | 🏠 Self-hostable  | 🔐 TLS + E2EE | Early development | 
 
 ##  ⚠ Popular, but Not Recommended for casual discord users
 | App | Source | Hosting | Encryption | Notes |
